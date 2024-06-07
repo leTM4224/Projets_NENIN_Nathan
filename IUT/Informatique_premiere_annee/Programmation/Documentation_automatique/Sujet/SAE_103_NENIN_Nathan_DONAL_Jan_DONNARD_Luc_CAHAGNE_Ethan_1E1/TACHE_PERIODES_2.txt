@@ -1,0 +1,6 @@
+        | Nathan | Jan | Luc | Ethan
+bash    |  100   |  0  |  0  |   0   %
+user php|   0    |  0  |  95 |   5   %
+tech php|   0    |  80 |  15 |   5   %
+config  |   50   |  0  |  0  |   50  %
+tache   |   0    |  0  |  0  |  100  %
